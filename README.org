@@ -1,0 +1,10 @@
+* btrie
+
+A trie implementation with branch widths
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/peterhil/btrie.git   |
+| commit  | 50e933c  |
+| systems | btrie |
+|---------+-------------------------------------------|
+
